@@ -1,0 +1,113 @@
+['casele', 'voinic', 'spala'] - 33.33333333333333% identica
+['gras', 'arunca', 'taie', 'mar', 'caietul'] - 20.0% identica
+['topaie', 'suparat', 'guma', 'masa', 'caietul', 'cuminte'] - 16.666666666666664% identica
+['creionul', 'trage', 'mic', 'harnic', 'masa', 'tastatura'] - 16.666666666666664% identica
+['stramb', 'marul', 'sta'] - 33.33333333333333% identica
+['merge', 'sare', 'voinic', 'vocea'] - 25.0% identica
+['taie', 'masa', 'voinic', 'marul'] - 100.0% identica
+['marul', 'telefonul', 'trage', 'slab', 'stramb', 'harnic'] - 16.666666666666664% identica
+['mic', 'masa', 'vocea', 'sare', 'butonul'] - 20.0% identica
+['voinic', 'impinge', 'sufletul'] - 33.33333333333333% identica
+['cuminte', 'slab', 'determina', 'butonul', 'taie'] - 20.0% identica
+['mananca', 'cuminte', 'rama', 'scrie', 'taie', 'hamsterul'] - 16.666666666666664% identica
+['taie', 'creste', 'gateste', 'viata', 'voinic'] - 40.0% identica
+['caietul', 'determina', 'voinic', 'gunoiul', 'lichid', 'creionul'] - 16.666666666666664% identica
+['sta', 'masa', 'mananca', 'verde'] - 25.0% identica
+['tastatura', 'topaie', 'arunca', 'gaina', 'urat'] - 40.0% identica
+['topaie', 'suparat', 'guma', 'masa', 'caietul', 'cuminte'] - 16.666666666666664% identica
+['topaie', 'danseaza', 'rosu', 'caietul', 'danseaza', 'butonul'] - 16.666666666666664% identica
+['creionul', 'trage', 'mic', 'harnic', 'masa', 'tastatura'] - 16.666666666666664% identica
+['stramb', 'marul', 'sta'] - 33.33333333333333% identica
+['gunoiul', 'tastatura', 'arunca', 'sare', 'mare', 'mic'] - 16.666666666666664% identica
+['gaina', 'topaie', 'caietul', 'stramb', 'depresiv', 'copilul'] - 33.33333333333333% identica
+['sta', 'urat', 'tastatura'] - 33.33333333333333% identica
+['tastatura', 'mic', 'mananca'] - 33.33333333333333% identica
+['tastatura', 'gras', 'arunca', 'vine', 'sare'] - 20.0% identica
+['impinge', 'hotarat', 'topaie', 'tastatura', 'stramb'] - 100.0% identica
+['hamsterul', 'rama', 'stramb', 'face'] - 25.0% identica
+['marul', 'telefonul', 'trage', 'slab', 'stramb', 'harnic'] - 16.666666666666664% identica
+['vine', 'mananca', 'stramb', 'harnic', 'pestel'] - 20.0% identica
+['voinic', 'impinge', 'sufletul'] - 33.33333333333333% identica
+['slab', 'rosu', 'drept', 'creionul', 'tastatura', 'vine'] - 16.666666666666664% identica
+['suparat', 'topaie', 'mananca', 'pestel', 'gateste', 'spala'] - 16.666666666666664% identica
+['impinge', 'pestel', 'arunca', 'frumos'] - 25.0% identica
+['casele', 'lichid', 'drept', 'scrie', 'hotarat'] - 20.0% identica
+['mananca', 'topaie', 'lichid', 'tastatura'] - 50.0% identica
+['rama', 'impinge', 'cuminte'] - 33.33333333333333% identica
+['stramb', 'impinge', 'casele', 'tastatura'] - 75.0% identica
+['stramb', 'drept', 'scrie', 'blocul'] - 25.0% identica
+['mar', 'viata', 'stramb', 'mare', 'scrie'] - 20.0% identica
+['mangai', 'face', 'verde', 'cutitul'] - 25.0% identica
+['mananca', 'frumos', 'rama', 'mananca'] - 25.0% identica
+['stramb', 'marul', 'sta'] - 33.33333333333333% identica
+['rama', 'danseaza', 'cuminte', 'sare', 'mare', 'programeaza'] - 16.666666666666664% identica
+['slab', 'hamsterul', 'suparat', 'guma', 'face'] - 40.0% identica
+['gaina', 'topaie', 'caietul', 'stramb', 'depresiv', 'copilul'] - 16.666666666666664% identica
+['impinge', 'hotarat', 'topaie', 'tastatura', 'stramb'] - 20.0% identica
+['hamsterul', 'rama', 'stramb', 'face'] - 100.0% identica
+['marul', 'telefonul', 'trage', 'slab', 'stramb', 'harnic'] - 16.666666666666664% identica
+['vine', 'mananca', 'stramb', 'harnic', 'pestel'] - 20.0% identica
+['pestel', 'rama', 'programeaza', 'drept'] - 25.0% identica
+['mananca', 'cuminte', 'rama', 'scrie', 'taie', 'hamsterul'] - 33.33333333333333% identica
+['face', 'blocul', 'creionul', 'mar', 'scrie'] - 20.0% identica
+['rama', 'impinge', 'cuminte'] - 33.33333333333333% identica
+['creionul', 'rama', 'vine', 'lichid'] - 25.0% identica
+['danseaza', 'motivat', 'face', 'blocul', 'gaina'] - 20.0% identica
+['stramb', 'impinge', 'casele', 'tastatura'] - 25.0% identica
+['viata', 'slab', 'arunca', 'hamsterul'] - 25.0% identica
+['trage', 'mic', 'motivat', 'guma', 'hamsterul', 'drept'] - 16.666666666666664% identica
+['verde', 'rama', 'depresiv', 'verde', 'butonul', 'spala'] - 16.666666666666664% identica
+['stramb', 'drept', 'scrie', 'blocul'] - 25.0% identica
+['mar', 'viata', 'stramb', 'mare', 'scrie'] - 20.0% identica
+['gaina', 'gaina', 'slab', 'guma', 'sta'] - 20.0% identica
+['trage', 'puternic', 'gunoiul'] - 33.33333333333333% identica
+['creionul', 'trage', 'mic', 'harnic', 'masa', 'tastatura'] - 33.33333333333333% identica
+['stramb', 'marul', 'sta'] - 66.66666666666666% identica
+['slab', 'hamsterul', 'suparat', 'guma', 'face'] - 20.0% identica
+['gaina', 'topaie', 'caietul', 'stramb', 'depresiv', 'copilul'] - 16.666666666666664% identica
+['taie', 'masa', 'voinic', 'marul'] - 25.0% identica
+['impinge', 'hotarat', 'topaie', 'tastatura', 'stramb'] - 20.0% identica
+['hamsterul', 'rama', 'stramb', 'face'] - 25.0% identica
+['marul', 'telefonul', 'trage', 'slab', 'stramb', 'harnic'] - 100.0% identica
+['vine', 'harnic', 'cuminte', 'verde', 'telefonul', 'cuminte'] - 33.33333333333333% identica
+['vine', 'mananca', 'stramb', 'harnic', 'pestel'] - 40.0% identica
+['cuminte', 'slab', 'determina', 'butonul', 'taie'] - 20.0% identica
+['slab', 'rosu', 'drept', 'creionul', 'tastatura', 'vine'] - 16.666666666666664% identica
+['mananca', 'gateste', 'telefonul', 'motivat'] - 25.0% identica
+['stramb', 'impinge', 'casele', 'tastatura'] - 25.0% identica
+['viata', 'slab', 'arunca', 'hamsterul'] - 25.0% identica
+['trage', 'mic', 'motivat', 'guma', 'hamsterul', 'drept'] - 16.666666666666664% identica
+['stramb', 'drept', 'scrie', 'blocul'] - 25.0% identica
+['mar', 'viata', 'stramb', 'mare', 'scrie'] - 20.0% identica
+['mangai', 'face', 'verde', 'cutitul'] - 25.0% identica
+['creste', 'cuminte', 'verde', 'guma'] - 75.0% identica
+['topaie', 'suparat', 'guma', 'masa', 'caietul', 'cuminte'] - 33.33333333333333% identica
+['creionul', 'trage', 'mic', 'harnic', 'masa', 'tastatura'] - 16.666666666666664% identica
+['rama', 'danseaza', 'cuminte', 'sare', 'mare', 'programeaza'] - 33.33333333333333% identica
+['depresiv', 'merge', 'scrie', 'mananca', 'cuminte', 'pestel'] - 33.33333333333333% identica
+['tastatura', 'gras', 'arunca', 'vine', 'sare'] - 20.0% identica
+['marul', 'telefonul', 'trage', 'slab', 'stramb', 'harnic'] - 33.33333333333333% identica
+['vine', 'harnic', 'cuminte', 'verde', 'telefonul', 'cuminte'] - 133.33333333333331% identica
+['vine', 'mananca', 'stramb', 'harnic', 'pestel'] - 40.0% identica
+['caietul', 'vine', 'scrie', 'frumos'] - 25.0% identica
+['cuminte', 'slab', 'determina', 'butonul', 'taie'] - 40.0% identica
+['arunca', 'verde', 'gaina'] - 33.33333333333333% identica
+['slab', 'rosu', 'drept', 'creionul', 'tastatura', 'vine'] - 16.666666666666664% identica
+['creste', 'mar', 'cutitul', 'merge', 'gras', 'vine'] - 16.666666666666664% identica
+['motivat', 'gras', 'calca', 'cuminte', 'pestel'] - 40.0% identica
+['mananca', 'gateste', 'telefonul', 'motivat'] - 25.0% identica
+['mananca', 'cuminte', 'rama', 'scrie', 'taie', 'hamsterul'] - 33.33333333333333% identica
+['rama', 'impinge', 'cuminte'] - 66.66666666666666% identica
+['creionul', 'rama', 'vine', 'lichid'] - 25.0% identica
+['verde', 'rama', 'depresiv', 'verde', 'butonul', 'spala'] - 33.33333333333333% identica
+['sta', 'masa', 'mananca', 'verde'] - 25.0% identica
+['creionul', 'trage', 'mic', 'harnic', 'masa', 'tastatura'] - 16.666666666666664% identica
+['programeaza', 'mare', 'mananca', 'caietul', 'pestel', 'frumos'] - 33.33333333333333% identica
+['mananca', 'frumos', 'rama', 'mananca'] - 50.0% identica
+['stramb', 'marul', 'sta'] - 33.33333333333333% identica
+['gaina', 'topaie', 'caietul', 'stramb', 'depresiv', 'copilul'] - 16.666666666666664% identica
+['creionul', 'viata', 'gunoiul', 'mananca', 'gaina', 'drept'] - 16.666666666666664% identica
+['tastatura', 'mic', 'mananca'] - 33.33333333333333% identica
+['depresiv', 'merge', 'scrie', 'mananca', 'cuminte', 'pestel'] - 33.33333333333333% identica
+['tastatura', 'gras', 'arunca', 'vine', 'sare'] - 20.0% identica
+['impinge', 'hotarat', 'topaie', 'tastatura', 'stramb'] - 20.0% identica
